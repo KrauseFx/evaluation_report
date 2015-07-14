@@ -4,4 +4,4 @@ I started [fastlane](https://fastlane.tools) at university. It was my final year
 
 Open the evaluation report **[here](https://github.com/fastlane/evaluation_report/raw/master/EvaluationReportFastlane.pdf)**.
 
-![Picture.jpg][Picture.jpg]
+![Picture.jpg](Picture.jpg)
